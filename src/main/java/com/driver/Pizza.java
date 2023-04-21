@@ -78,7 +78,7 @@ public class Pizza {
         }
 
         if(isPaperBagTaken){
-            bill=bill+"Paperbag Added: "+basePrice+"\n";
+            bill=bill+"Paperbag Added: "+paperBag+"\n";
         }
 
         bill=bill+"Total Price: "+total+"\n";
